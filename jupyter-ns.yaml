@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: jupyter
+  annotations:
+    desc: "Namespace for Jupyter Notebook App"
+    owner: "Marcelo Collyer"
+    linkedin: "https://www.linkedin.com/in/marcelo-collyer/"
+    email: "marcelocollyer@gmail.com"
+
